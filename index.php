@@ -178,6 +178,7 @@
              document.getElementById('cad').style.display="none";
              document.getElementById('tarefas').style.display="block";
                 
+             
         }
     </script>  
 </body>
